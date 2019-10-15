@@ -1,4 +1,4 @@
-[![Travis-CI Build Status](https://travis-ci.org/veneficusnl/pmpp.svg?branch=master)](https://travis-ci.org/veneficusnl/pmpp)
+[![Travis-CI Build Status](https://travis-ci.org/MichalOleszak/pmpp.svg?branch=master)](https://travis-ci.org/MichalOleszak/pmpp)
 
 # What is the Posterior Mean Panel Predictor?
 
