@@ -1,7 +1,9 @@
 ## Resubmission
 This is a resubmission. In this version I have:
 
-* Added reference about the method in the Description field, as requested
+* Fixed a typo in the example code in README
+* Disabled a redundant test that is not needed anymore
+* Updated package's URL abd BugReports in DESCRIPTION
 
 ## Test environments
 * local OS X install, R 3.5.1
@@ -9,11 +11,7 @@ This is a resubmission. In this version I have:
 * win-builder (devel and release)
 
 ## R CMD check results
-There were no ERRORs or WARNINGs.
-
-There was 1 NOTE:
-
-* This is a new release.
+There were no ERRORs, WARNINGs, or NOTEs.
 
 ## Reverse dependencies
-This is a new release, so there are no reverse dependencies.
+There are no reverse dependencies.
